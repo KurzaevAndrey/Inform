@@ -1,0 +1,4 @@
+C:\Users\student\source\repos\practich 10 classs\practich 10 classs\obj\Debug\practich 10 classs.csprojAssemblyReference.cache
+C:\Users\student\source\repos\practich 10 classs\practich 10 classs\obj\Debug\practich11_16_03.Form1.resources
+C:\Users\student\source\repos\practich 10 classs\practich 10 classs\obj\Debug\practich_10_classs.Properties.Resources.resources
+C:\Users\student\source\repos\practich 10 classs\practich 10 classs\obj\Debug\practich 10 classs.csproj.GenerateResource.cache

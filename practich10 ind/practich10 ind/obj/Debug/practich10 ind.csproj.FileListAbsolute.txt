@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\practich10 ind\practich10 ind\bin\Debug\practich10 ind.exe.config
+C:\Users\student\source\repos\practich10 ind\practich10 ind\bin\Debug\practich10 ind.exe
+C:\Users\student\source\repos\practich10 ind\practich10 ind\bin\Debug\practich10 ind.pdb
+C:\Users\student\source\repos\practich10 ind\practich10 ind\obj\Debug\practich10 ind.csprojAssemblyReference.cache
+C:\Users\student\source\repos\practich10 ind\practich10 ind\obj\Debug\practich10_ind.Properties.Resources.resources
+C:\Users\student\source\repos\practich10 ind\practich10 ind\obj\Debug\practich10 ind.csproj.GenerateResource.cache
+C:\Users\student\source\repos\practich10 ind\practich10 ind\obj\Debug\practich10 ind.exe
+C:\Users\student\source\repos\practich10 ind\practich10 ind\obj\Debug\practich10 ind.pdb
+C:\Users\student\source\repos\practich10 ind\practich10 ind\obj\Debug\kurzaev10_16_03_ind.Form1.resources

@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\practich11class\practich11class\obj\Debug\practich11class.csprojAssemblyReference.cache
+C:\Users\student\source\repos\practich11class\practich11class\obj\Debug\practich11class.Properties.Resources.resources
+C:\Users\student\source\repos\practich11class\practich11class\obj\Debug\practich11class.csproj.GenerateResource.cache
+C:\Users\student\source\repos\practich11class\practich11class\obj\Debug\practich11class.Form1.resources
+C:\Users\student\source\repos\practich11class\practich11class\bin\Debug\practich11class.exe.config
+C:\Users\student\source\repos\practich11class\practich11class\bin\Debug\practich11class.exe
+C:\Users\student\source\repos\practich11class\practich11class\bin\Debug\practich11class.pdb
+C:\Users\student\source\repos\practich11class\practich11class\obj\Debug\practich11class.exe
+C:\Users\student\source\repos\practich11class\practich11class\obj\Debug\practich11class.pdb
