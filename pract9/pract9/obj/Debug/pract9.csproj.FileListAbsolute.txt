@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\pract9\pract9\bin\Debug\pract9.exe.config
+C:\Users\student\source\repos\pract9\pract9\bin\Debug\pract9.exe
+C:\Users\student\source\repos\pract9\pract9\bin\Debug\pract9.pdb
+C:\Users\student\source\repos\pract9\pract9\obj\Debug\pract9.csprojAssemblyReference.cache
+C:\Users\student\source\repos\pract9\pract9\obj\Debug\pract9.Properties.Resources.resources
+C:\Users\student\source\repos\pract9\pract9\obj\Debug\pract9.csproj.GenerateResource.cache
+C:\Users\student\source\repos\pract9\pract9\obj\Debug\pract9.exe
+C:\Users\student\source\repos\pract9\pract9\obj\Debug\pract9.pdb
+C:\Users\student\source\repos\pract9\pract9\obj\Debug\kurzaev9_16_03_ind.Form1.resources

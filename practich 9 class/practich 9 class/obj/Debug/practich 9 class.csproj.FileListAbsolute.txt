@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\practich 9 class\practich 9 class\bin\Debug\practich 9 class.exe.config
+C:\Users\student\source\repos\practich 9 class\practich 9 class\bin\Debug\practich 9 class.exe
+C:\Users\student\source\repos\practich 9 class\practich 9 class\bin\Debug\practich 9 class.pdb
+C:\Users\student\source\repos\practich 9 class\practich 9 class\obj\Debug\practich 9 class.csprojAssemblyReference.cache
+C:\Users\student\source\repos\practich 9 class\practich 9 class\obj\Debug\practich_9_class.Form1.resources
+C:\Users\student\source\repos\practich 9 class\practich 9 class\obj\Debug\practich_9_class.Properties.Resources.resources
+C:\Users\student\source\repos\practich 9 class\practich 9 class\obj\Debug\practich 9 class.csproj.GenerateResource.cache
+C:\Users\student\source\repos\practich 9 class\practich 9 class\obj\Debug\practich 9 class.exe
+C:\Users\student\source\repos\practich 9 class\practich 9 class\obj\Debug\practich 9 class.pdb

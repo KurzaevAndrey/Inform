@@ -1,0 +1,3 @@
+C:\Users\student\source\repos\pract11 class\pract11 class\obj\Debug\pract11 class.csprojAssemblyReference.cache
+C:\Users\student\source\repos\pract11 class\pract11 class\obj\Debug\pract11_class.Properties.Resources.resources
+C:\Users\student\source\repos\pract11 class\pract11 class\obj\Debug\pract11 class.csproj.GenerateResource.cache
