@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\9 pract\9 pract\bin\Debug\9 pract.exe.config
+C:\Users\student\source\repos\9 pract\9 pract\bin\Debug\9 pract.exe
+C:\Users\student\source\repos\9 pract\9 pract\bin\Debug\9 pract.pdb
+C:\Users\student\source\repos\9 pract\9 pract\obj\Debug\9 pract.csprojAssemblyReference.cache
+C:\Users\student\source\repos\9 pract\9 pract\obj\Debug\_9_pract.Properties.Resources.resources
+C:\Users\student\source\repos\9 pract\9 pract\obj\Debug\9 pract.csproj.GenerateResource.cache
+C:\Users\student\source\repos\9 pract\9 pract\obj\Debug\9 pract.exe
+C:\Users\student\source\repos\9 pract\9 pract\obj\Debug\9 pract.pdb
